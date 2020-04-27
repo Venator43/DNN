@@ -29,4 +29,5 @@ Use to predict trained network
 
 X is the input for the input layer
 
-  
+# Refrence
+https://www.youtube.com/watch?v=fMqL5vckiU0&list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&index=1
