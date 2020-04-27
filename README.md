@@ -5,13 +5,13 @@ This model is made solely for educational purpose and to better understand the i
 
 # Usefull function
 
-MLP(input_layer, [hidden_layer], output_layer)
+#### MLP(input_layer, [hidden_layer], output_layer)
 
 use to declare the neural network
 
 the parameter used to declare how much node each layer would have
 
-MLP.fit(X,y,epoch,learning_rate)
+#### MLP.fit(X,y,epoch,learning_rate)
 
 Use to train the network
 
@@ -23,7 +23,7 @@ epoch is how many cycle you want the neural network to train
 
 learning_rate is how much the rate of decent you want for the weight
 
-MLP.forward(X)
+#### MLP.forward(X)
 
 Use to predict trained network
 
