@@ -11,4 +11,22 @@ use to declare the neural network
 
 the parameter used to declare how much node each layer would have
 
+MLP.fit(X,y,epoch,learning_rate)
+
+Use to train the network
+
+X is the input node
+
+y is the expected output node of X
+
+epoch is how many cycle you want the neural network to train
+
+learning_rate is how much the rate of decent you want for the weight
+
+MLP.forward(X)
+
+Use to predict trained network
+
+X is the input for the input layer
+
   
